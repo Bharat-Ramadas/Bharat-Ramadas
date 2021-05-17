@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+My name is Bharat Ramadas and I am a graduate student at the University of Wisconsin-Madison. 
 
-<!--
-**Bharat-Ramadas/Bharat-Ramadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My research interests include electric :zap: machines and drives. I also have more than three years of experience working in the field of electric vehicles :electric_plug: :car:. 
+More information about my work/research experiences can be found at my [LinkedIN](https://www.linkedin.com/in/bharat-ramadas) page.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on desiging ultra-high speed (> 100,000 RPM !!) bearingless electric machines for aerial :airplane: e-turbo applications. As part of this project, I get
+to work on electric machine design optimization, high performance discrete time control, and on developing the science of bearingless machines for ultra-high speed applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source Projects
+### eMach
+I'm one of the core team members working on an electric machine modeling and evaluation framework -- [eMach](https://github.com/Severson-Group/eMach). As an active contributor to
+this repository, I work on interfacing different electric machine FEA tools (such as Simcenter MAGNET, JMAG etc.) with Python.
+
